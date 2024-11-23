@@ -83,13 +83,10 @@ The following team members developed this project:
 2. [Team Member 2]
 3. [Team Member 3]
 4. [Team Member 4]
-5. [Team Member 5]
-6. Ziad Refaie
+5. Mahmoud Mohamed Salah  - mahmoudms2003@gmail.com
+6. Ziad Refaie Abu Alftooh  - zaidrar200@gmail.com
 
 ## Demo
 
 🎥 A video demonstration of the Smart Home system will be uploaded soon. Stay tuned!
 
-## Contact
-
-Created by [Ziad Refaie](https://github.com/zidrar) - feel free to reach out for questions or collaboration opportunities!
