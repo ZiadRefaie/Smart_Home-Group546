@@ -44,7 +44,6 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
   - LCD 16x2
   - 4x4 Keypad
   - Bluetooth Module
-  - External EEPROM
   - Dimmer Circuit
   - LEDs (x5)
   - Servo Motor
@@ -65,21 +64,21 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
    - Admins use a password stored in the EEPROM memory to access additional privileges.  
 
 2. **Modes**:  
-   - **Admin Mode**:  
-     - Open the door via the servo motor.  
-     - Access all system components.  
    - **User Mode**:  
      - View room temperature using the LM35 sensor.  
      - Control the AC power.  
      - Toggle house lamps ON/OFF.  
      - Adjust lighting levels with the dimmer circuit.  
+   - **Admin Mode**:  
+     - Access all User Mode features.  
+     - Additional privileges, such as controlling the door via the servo motor.  
 
 3. **Bluetooth Control**:  
    - Once logged in, use the Bluetooth Module to remotely interact with components.  
 
 ## Team
 
-This project was developed by the following team members:
+The following team members developed this project:
 1. [Team Member 1]
 2. [Team Member 2]
 3. [Team Member 3]
