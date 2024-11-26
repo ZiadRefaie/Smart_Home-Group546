@@ -51,6 +51,7 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 
 ## Installation
 **Schematic**:
+
 ![Screenshot 2024-11-26 145122](https://github.com/user-attachments/assets/7a67eb5e-e9d9-4e18-9580-40eb8b4f1ce6) 
 
 1. Assemble the hardware according to the past schematic.  
