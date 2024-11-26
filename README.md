@@ -38,7 +38,6 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
   - 3-Bit LED Module
   - Buzzer Module
   - Relay Module
-  - TivaC Compatible Connector
 - **External Components**:
   - LCD 16x2
   - 4x4 Keypad
