@@ -24,7 +24,6 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 - **Device Control**: Operates devices via relay, servo motor, and DC motor.
 - **User Interface**: Controlled via 16x2 LCD and 4x4 Keypad.
 - **Bluetooth Connectivity**: Enables remote control of the system.
-- **External EEPROM**: Stores admin credentials and configurations persistently.
 
 ## Tools and Components
 
@@ -52,7 +51,7 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 
 ## Installation
 
-1. A detailed installation video and schematic diagram of the circuit will be provided.  
+1. A detailed installation video and circuit schematic diagram will be provided.  
 2. Assemble the hardware according to the schematic.  
 3. Flash the firmware to the ATMEGA32A microcontroller using an SPI programmer.  
 4. Power on the system and follow the usage instructions.  
@@ -61,7 +60,7 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
 
 1. **Login**:  
    - The system requires a secure login via the **4x4 Keypad**.  
-   - Admins use a password stored in the EEPROM memory to access additional privileges.  
+   - Admins access additional privileges compared to users.  
 
 2. **Modes**:  
    - **User Mode**:  
@@ -74,7 +73,7 @@ The **Smart Home Project** utilizes the ATMEGA32A microcontroller to create a sy
      - Additional privileges, such as controlling the door via the servo motor.  
 
 3. **Bluetooth Control**:  
-   - Once logged in, use the Bluetooth Module to remotely interact with components.  
+   - Once logged in, use the Bluetooth Module to interact with components remotely.  
 
 ## Team
 
